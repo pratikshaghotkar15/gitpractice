@@ -33,5 +33,6 @@ public class App
 	    int h=90;
 		
 		
+		int g=70;
     }
 }

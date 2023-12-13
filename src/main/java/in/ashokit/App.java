@@ -34,5 +34,8 @@ public class App
 		
 		
 		int g=70;
+
+
+	    int t=0;
     }
 }

@@ -30,5 +30,6 @@ public class App
 		System.out.println( "merge try" );
 		
 		
+		int g=70;
     }
 }

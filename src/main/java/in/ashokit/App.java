@@ -12,5 +12,15 @@ public class App
 		System.out.println( "Hello World!" );
 	    System.out.println( "Hello World!" );
 		
+		
+		
+		
+		
+		
+		
+		//task 102
+		System.out.println( "task 102" );
+		
+		
     }
 }

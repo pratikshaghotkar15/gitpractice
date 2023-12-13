@@ -20,6 +20,9 @@ public class App
 		
 		//task 102
 		System.out.println( "task 102" );
+
+		//task 101
+		System.out.println( "101 task" );
 		
 		
     }
